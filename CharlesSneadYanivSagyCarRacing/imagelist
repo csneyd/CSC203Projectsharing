@@ -1,0 +1,68 @@
+atlantis images/atlantis0.bmp 255 255 255 0
+atlantis images/atlantis1.bmp 
+atlantis images/atlantis2.bmp 
+atlantis images/atlantis3.bmp 
+atlantis images/atlantis4.bmp 
+atlantis images/atlantis5.bmp
+atlantis images/atlantis6.bmp
+crab images/crabout01.bmp 255 255 255 128
+crab images/crabout02.bmp 255 255 255 128
+crab images/crabout03.bmp 255 255 255 128
+crab images/crabout04.bmp 255 255 255 128
+crab images/crabout05.bmp 255 255 255 128
+crab images/crabout06.bmp 255 255 255 128
+crab images/crabout07.bmp 255 255 255 128
+crab images/crabout08.bmp 255 255 255 128
+crab images/crabout09.bmp 255 255 255 128
+crab images/crabout10.bmp 255 255 255 128
+crab images/crabout11.bmp 255 255 255 128
+crab images/crabout11.bmp 255 255 255 128
+sea images/sea.bmp 255 255 255 0
+octo images/s1.bmp 255 255 255 0
+octo images/s2.bmp 255 255 255 0
+octo images/s3.bmp 255 255 255 0
+octo images/s4.bmp 255 255 255 0
+octo images/s5.bmp 255 255 255 0
+obstacle images/rock.bmp
+fish images/fish.bmp 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+bubbles images/bubbles.bmp
+seaGrass images/Seaweed1.bmp 255 255 255 0
+background_default images/none.bmp
+grass images/land_grass11.bmp
+roadstart images/road_asphalt88.bmp
+road images/road_asphalt90.bmp
+playerCarRight images/Daco_520361-right.bmp 255 255 255 128
+playerCarLeft images/Daco_520361-left.bmp 255 255 255 128
+playerCarDown images/Daco_520361-down.bmp 255 255 255 128
+playerCarUp images/Daco_520361-up.bmp 255 255 255 128
+oilPuddle images/oilspill.bmp
+motorcycleRight images/motorcycle_blue_right.bmp
+motorcycleLeft images/motorcycle_blue_left.bmp
+motorcycleDown images/motorcycle_blue_down.bmp
+motorcycleUp images/motorcycle_blue_up.bmp
+blackComputerCarRight images/car_black_right.bmp
+blackComputerCarLeft images/car_black_left.bmp 255 255 255 128
+blackComputerCarDown images/car_black_down.bmp 255 255 255 128
+blackComputerCarUp images/car_black_up.bmp
+blueComputerCarRight images/car_blue_right.bmp
+blueComputerCarLeft images/car_blue_left.bmp
+blueComputerCarDown images/car_blue_down.bmp
+blueComputerCarUp images/car_blue_up.bmp
+yellowComputerCarRight images/car_yellow_right.bmp
+yellowComputerCarLeft images/car_yellow_left.bmp
+yellowComputerCarDown images/car_yellow_down.bmp
+yellowComputerCarUp images/car_yellow_up.bmp
+fire images/large_fire.bmp
+barrel images/barrel_red_rolling.bmp
+barrelx images/barrel_red_up.bmp
+people images/character_black_blue.bmp
+people images/character_blonde_blue.bmp
+people images/character_blonde_green.bmp
+people images/character_brown_red.bmp
+people images/character_brown_white.bmp
